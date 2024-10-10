@@ -1,27 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="11086d9d-7106-4421-942c-903d5b3f8242" name="Changes" comment="" />
+    <list default="true" id="11086d9d-7106-4421-942c-903d5b3f8242" name="Changes" comment="created the repo and controller of area.">
+      <change afterPath="$PROJECT_DIR$/data/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/times_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/times_controller.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2nEdtVaok6pZsAGPjBQoo1LkZQ4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for area_tests.test_get_all_areas.executor": "Run",
+    "Python tests.Python tests for area_tests.test_get_count_of_area_accidents.executor": "Run",
+    "Python tests.Python tests for area_tests.test_get_reason_of_area_accidents.executor": "Run",
+    "Python tests.Python tests for area_tests.test_get_statistic_area_accidents.executor": "Run",
+    "Python tests.Python tests for times_tests.test_count_accident_by_day.executor": "Run",
+    "Python tests.Python tests for times_tests.test_count_accident_by_month.executor": "Run",
+    "Python tests.Python tests for times_tests.test_count_accident_by_week.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.connect.executor": "Run",
+    "Python.csv_repository.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\motty\PycharmProjects\ChicagoCarAccidents\data" />
+      <recent name="C:\Users\motty\PycharmProjects\ChicagoCarAccidents" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChicagoCarAccidents" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for area_tests.test_get_statistic_area_accidents" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ChicagoCarAccidents" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;area_tests.test_get_statistic_area_accidents&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for times_tests.test_count_accident_by_day" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ChicagoCarAccidents" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;times_tests.test_count_accident_by_day&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for times_tests.test_count_accident_by_month" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ChicagoCarAccidents" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;times_tests.test_count_accident_by_month&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for times_tests.test_count_accident_by_week" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ChicagoCarAccidents" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;times_tests.test_count_accident_by_week&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python tests.Python tests for times_tests.test_count_accident_by_month" />
+        <item itemvalue="Python tests.Python tests for times_tests.test_count_accident_by_week" />
+        <item itemvalue="Python tests.Python tests for times_tests.test_count_accident_by_day" />
+        <item itemvalue="Python tests.Python tests for area_tests.test_get_statistic_area_accidents" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -38,6 +166,55 @@
       <option name="presentableId" value="Default" />
       <updated>1728542383868</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="created the init_accident func with all around it.">
+      <option name="closed" value="true" />
+      <created>1728547215417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1728547215417</updated>
+    </task>
+    <task id="LOCAL‎-00002" summary="fixed the init_accident func with all around it.">
+      <option name="closed" value="true" />
+      <created>1728560693270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1728560693270</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="created the repo and tests of area.">
+      <option name="closed" value="true" />
+      <created>1728564595786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1728564595786</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="created the repo and tests of times.">
+      <option name="closed" value="true" />
+      <created>1728566916305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1728566916305</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="created the repo and controller of area.">
+      <option name="closed" value="true" />
+      <created>1728567865655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1728567865655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created the init_accident func with all around it." />
+    <MESSAGE value="fixed the init_accident func with all around it." />
+    <MESSAGE value="created the repo and tests of area." />
+    <MESSAGE value="created the repo and tests of times." />
+    <MESSAGE value="created the repo and controller of area." />
+    <option name="LAST_COMMIT_MESSAGE" value="created the repo and controller of area." />
   </component>
 </project>
