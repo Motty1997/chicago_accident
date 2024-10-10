@@ -73,5 +73,6 @@ def init_accidents():
             }},
             upsert=True
         )
+    return "OK"
 
 init_accidents()
